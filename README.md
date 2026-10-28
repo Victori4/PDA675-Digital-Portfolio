@@ -1,6 +1,6 @@
 # Master's Programme in IT and Learning: Digital Portfolio
 **Student:** Victoria Vu\
-**Course:** PDA675 - Technology, Knowledge and Learning: An Introduction\
+**Course:** PDA675 - Technology, Knowledge and Learning: An Introduction
 
 ---
 
