@@ -1,6 +1,6 @@
 # Master's Programme in IT and Learning: Digital Portfolio
 **Student:** Victoria Vu\
-**Course:** PDA675 - Technology, Knowledge and Learning: An Introduction
+**Course:** PDA675 - Technology, Knowledge and Learning: An Introduction\
 
 ---
 
@@ -11,7 +11,9 @@
 * **Contact:** [LinkedIn](https://www.linkedin.com/in/victoria-vu-116vv/)
 
 ## 📂 Portfolio Artifacts Repository
-Below is a collection of work products produced during the course:
+Below is a collection of work products produced during the course.
+> [!NOTE]
+> Each artifact includes my reflection on its significance and connection to course learning outcomes, followed by reflections on my thesis plans and career goals in the final section.
 
 ### 📄 Artifact 1: Reflections and Critical Review of Learning Theories Seminars
 * **File Location:** 📁 [Artifacts1_Learning Theories](https://github.com/Victori4/PDA675-Digital-Portfolio/tree/main/Artifacts/Artifact1_Learning%20Theories)
