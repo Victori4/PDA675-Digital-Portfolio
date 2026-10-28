@@ -4,10 +4,10 @@
 
 ---
 
-## 🙋🏻‍♀️ About Me & Overview
+## 🙋🏻‍♀️ About Me
 * **Background:** Teaching (Canada, Japan, England, Sweden), software engineering, functional safety research and product cybersecurity
 * **Future Career Aspirations:** Researching a topic relevant to education or working in industry, with the role of designing or supporting learning/training
-* **Key Competencies:** Critical analysis of learning theories and emerging digital technology, applying theoretical frameworks to real life technology relevant learning issues, understanding and applying a research process, matching the relevant learning strategies to the appropriate context for instructional design
+* **Key Competencies From Course:** Critical analysis of learning theories and emerging digital technology, applying theoretical frameworks to real life technology relevant learning issues, understanding and applying a research process, matching the relevant learning strategies to the appropriate context for instructional design
 * **Contact:** [LinkedIn](https://www.linkedin.com/in/victoria-vu-116vv/)
 
 ## 📂 Portfolio Artifacts Repository
